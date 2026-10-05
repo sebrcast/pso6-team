@@ -1,3 +1,4 @@
 Team members: sebrcast and vyas-D
 Favorite programming language: TBD
-Team motto: Choose progress, not perfection.
+Team motto: Successfully resolve the merge conflict
+
